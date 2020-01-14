@@ -27,4 +27,4 @@ bigdata.marcogg.com
 
 Progressive Web Apps
 
-#Conference of Empowering Technologies (AI, Cloud Computing & IoT)
+# Conference of Empowering Technologies (AI, Cloud Computing & IoT)
